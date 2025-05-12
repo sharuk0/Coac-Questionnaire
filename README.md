@@ -48,7 +48,5 @@ El cuestionario está basado exclusivamente en el Capítulo 3 del documento:
 
 # 📝 Instalación y uso local
 
-    Clona el repositorio:
-
-git clone https://github.com/tu-usuario/cuestionario-sintactico.git
+    Clona el repositorio: https://github.com/tu-usuario/cuestionario-sintactico.git
 
